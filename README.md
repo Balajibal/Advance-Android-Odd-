@@ -389,6 +389,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 ![WhatsApp Image 2022-09-20 at 3 38 24 PM (3)](https://user-images.githubusercontent.com/75235455/191968264-9395a87f-249a-4483-862e-7ebaf02238ee.jpeg)
 
 
-
+</br></br></br>
 ## RESULT:
 Thus, a Simple Android Application to create a database table and to display the database table using SQLite Database in Android Studio is developed and executed successfully
