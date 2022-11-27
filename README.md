@@ -382,7 +382,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 ![WhatsApp Image 2022-09-20 at 3 38 24 PM (4)](https://user-images.githubusercontent.com/75235455/191968179-661dbf1a-edba-42d2-9093-b873b912f67d.jpeg)
 
 
-### <br><br><br><br>Fetch
+### <br><br>Fetch
 ![WhatsApp Image 2022-09-20 at 3 38 24 PM (5)](https://user-images.githubusercontent.com/75235455/191968232-026b1432-c4cf-43c9-a0d5-034cb75f712e.jpeg)
 
 
