@@ -1,6 +1,5 @@
 ### EX NO : 01
 ### DATE  : 07.09.2022
-
 # <p align="center"> To create a database table and to display the database table field using SQLite Database in Android Studio </p>
 
 ## AIM:
@@ -375,10 +374,9 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         app:layout_constraintVertical_bias="0.328" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ## OUTPUT:
+![Screenshot_23](https://user-images.githubusercontent.com/75235455/203474987-8ed705d8-e7e8-4991-ad1a-444fc8b34b53.png)
 
-![WhatsApp Image 2022-09-20 at 3 38 23 PM](https://user-images.githubusercontent.com/75235455/191968079-fcd2caae-7dd2-4812-8b9e-88cd87248493.jpeg)
 
 ### Insert
 ![WhatsApp Image 2022-09-20 at 3 38 24 PM (4)](https://user-images.githubusercontent.com/75235455/191968179-661dbf1a-edba-42d2-9093-b873b912f67d.jpeg)
@@ -393,6 +391,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 ![WhatsApp Image 2022-09-20 at 3 38 24 PM (3)](https://user-images.githubusercontent.com/75235455/191968264-9395a87f-249a-4483-862e-7ebaf02238ee.jpeg)
 
 
-</br></br></br>
+
 ## RESULT:
 Thus, a Simple Android Application to create a database table and to display the database table using SQLite Database in Android Studio is developed and executed successfully
