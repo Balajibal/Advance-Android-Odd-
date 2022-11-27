@@ -374,7 +374,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         app:layout_constraintVertical_bias="0.328" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT:
+## <br><br>OUTPUT:
 ![Screenshot_23](https://user-images.githubusercontent.com/75235455/203474987-8ed705d8-e7e8-4991-ad1a-444fc8b34b53.png)
 
 
