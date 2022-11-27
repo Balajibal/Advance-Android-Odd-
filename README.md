@@ -1,4 +1,7 @@
-# Ex.No: 1 To create a database table and to display the database table field using SQLite Database in Android Studio.
+### EX NO : 01
+### DATE  : 07.09.2022
+
+# <p align="center"> To create a database table and to display the database table field using SQLite Database in Android Studio </p>
 
 ## AIM:
 
